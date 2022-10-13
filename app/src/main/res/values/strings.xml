@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wortgenerator</string>
+    <string name="buttontext">Daten neu laden</string>
+</resources>
